@@ -1,3 +1,3 @@
-# otus_java_2019_12
-# first steps
-
+Студент:
+Ivan Petrov (Иван петров)
+ivan@yandex.ru
