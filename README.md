@@ -1,3 +1,3 @@
-#Студент:
-#Ivan Petrov (Иван петров)
-#ivan@yandex.ru
+Студент:<br>
+Ivan Petrov (Иван петров)<br>
+ivan@yandex.ru<br>
