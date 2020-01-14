@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00e97bf8-c6e0-486c-9c93-6497e16899ba" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WIjfzmL7Rdc5zxCTxW4nARgpyP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.30229884" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="Maven.hw01-maven [install]">
+    <configuration name="HelloOtus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloOtus" />
+      <module name="hw01-maven" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hw01-maven [install]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/hw01-maven" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Maven.hw01-maven [install]" />
+        <item itemvalue="Application.HelloOtus" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00e97bf8-c6e0-486c-9c93-6497e16899ba" name="Default Changelist" comment="" />
+      <created>1578844109034</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578844109034</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="520" y="202" key="#Inspections" timestamp="1578847482406">
+      <screen x="0" y="0" width="1857" height="1080" />
+    </state>
+    <state x="520" y="202" key="#Inspections/0.0.1857.1080@0.0.1857.1080" timestamp="1578847482406" />
+    <state x="438" y="139" key="#Project_Structure" timestamp="1578845056156">
+      <screen x="0" y="0" width="1857" height="1080" />
+    </state>
+    <state x="438" y="139" key="#Project_Structure/0.0.1857.1080@0.0.1857.1080" timestamp="1578845056156" />
+    <state width="1814" height="465" key="GridCell.Tab.0.bottom" timestamp="1578848636760">
+      <screen x="0" y="0" width="1857" height="1080" />
+    </state>
+    <state width="1814" height="465" key="GridCell.Tab.0.bottom/0.0.1857.1080@0.0.1857.1080" timestamp="1578848636760" />
+    <state width="1814" height="465" key="GridCell.Tab.0.center" timestamp="1578848636760">
+      <screen x="0" y="0" width="1857" height="1080" />
+    </state>
+    <state width="1814" height="465" key="GridCell.Tab.0.center/0.0.1857.1080@0.0.1857.1080" timestamp="1578848636760" />
+    <state width="1814" height="465" key="GridCell.Tab.0.left" timestamp="1578848636760">
+      <screen x="0" y="0" width="1857" height="1080" />
+    </state>
+    <state width="1814" height="465" key="GridCell.Tab.0.left/0.0.1857.1080@0.0.1857.1080" timestamp="1578848636760" />
+    <state width="1814" height="465" key="GridCell.Tab.0.right" timestamp="1578848636760">
+      <screen x="0" y="0" width="1857" height="1080" />
+    </state>
+    <state width="1814" height="465" key="GridCell.Tab.0.right/0.0.1857.1080@0.0.1857.1080" timestamp="1578848636760" />
+    <state x="431" y="186" key="SettingsEditor" timestamp="1578845914250">
+      <screen x="0" y="0" width="1857" height="1080" />
+    </state>
+    <state x="431" y="186" key="SettingsEditor/0.0.1857.1080@0.0.1857.1080" timestamp="1578845914250" />
+    <state x="999" y="227" key="com.intellij.ide.util.TipDialog" timestamp="1578847157335">
+      <screen x="0" y="0" width="1857" height="1080" />
+    </state>
+    <state x="999" y="227" key="com.intellij.ide.util.TipDialog/0.0.1857.1080@0.0.1857.1080" timestamp="1578847157335" />
+    <state x="578" y="245" key="new project wizard" timestamp="1578844542961">
+      <screen x="0" y="0" width="1857" height="1080" />
+    </state>
+    <state x="578" y="245" key="new project wizard/0.0.1857.1080@0.0.1857.1080" timestamp="1578844542961" />
+    <state x="591" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1578845421751">
+      <screen x="0" y="0" width="1857" height="1080" />
+    </state>
+    <state x="591" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1857.1080@0.0.1857.1080" timestamp="1578845421751" />
+  </component>
+</project>
