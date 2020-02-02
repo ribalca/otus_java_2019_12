@@ -8,7 +8,7 @@ import java.util.List;
 
 /**
  * java -cp hw01-maven-jar-with-dependencies.jar ru.otus.HelloOtus
- * 
+ *
  */
 
 public class HelloOtus {
